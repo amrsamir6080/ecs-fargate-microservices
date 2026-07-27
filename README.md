@@ -286,51 +286,6 @@ Permissions:
 
 ---
 
-# 🛠 Deployment
-
-## Clone Repository
-
-```bash
-git clone https://github.com/<your-username>/ecs-fargate-microservices.git
-
-cd ecs-fargate-microservices
-```
-
-## Build Docker Images
-
-```bash
-docker build -t auth-service ./app/auth
-
-docker build -t orders-service ./app/orders
-
-docker build -t notifications-service ./app/notifications
-```
-
-## Push Images
-
-```bash
-docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/auth-service
-
-docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/orders-service
-
-docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/notifications-service
-```
-
-## Deploy Infrastructure
-
-```bash
-cd infrastructure/terraform
-
-terraform init
-
-terraform plan
-
-terraform apply
-```
-
----
-
-
 # 🎯 Learning Outcomes
 
 This project demonstrates practical experience with:
