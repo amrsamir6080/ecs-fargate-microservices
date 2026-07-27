@@ -18,7 +18,7 @@ The solution follows AWS Well-Architected best practices by implementing secure 
 
 # 🏗 Architecture
 
-![Architecture](architecture/ecs-fargate-microservices.png)
+![Architecture](ecs-fargate-microservices.png)
 
 ---
 
