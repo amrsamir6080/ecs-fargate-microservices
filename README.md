@@ -330,25 +330,6 @@ terraform apply
 
 ---
 
-# 📷 Screenshots
-
-Include screenshots after deployment:
-
-* ECS Cluster
-* ECS Services
-* Running Tasks
-* Amazon ECR
-* Application Load Balancer
-* Target Groups
-* AWS Cloud Map
-* Secrets Manager
-* ElastiCache Redis
-* CloudWatch Logs
-* AWS X-Ray Service Map
-* CodePipeline
-* CodeDeploy
-
----
 
 # 🎯 Learning Outcomes
 
