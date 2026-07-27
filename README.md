@@ -75,40 +75,6 @@ CloudWatch + X-Ray
 
 ---
 
-# 📂 Project Structure
-
-```
-ecs-fargate-microservices/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── architecture/
-│   ├── ecs-fargate-microservices.png
-│   ├── architecture.drawio
-│   └── architecture.pdf
-│
-├── app/
-│   ├── auth/
-│   ├── orders/
-│   └── notifications/
-│
-├── docker/
-│
-├── infrastructure/
-│   └── terraform/
-│
-├── ecs/
-│
-├── pipeline/
-│
-├── docs/
-│
-└── screenshots/
-```
-
----
 
 # 🔄 CI/CD Pipeline
 
