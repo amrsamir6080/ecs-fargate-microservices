@@ -327,8 +327,3 @@ DevOps Engineer
 
 AWS • Docker • Kubernetes • Terraform • Linux • CI/CD
 
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
